@@ -5,7 +5,15 @@ My name is Bianca Mesquita
 - I want to be a Front End Dev
 
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancames&hide=html&layout=compact&theme=buefy" />  
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancames&hide=html&layout=compact&theme=radical" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=biancames&theme=radical"/></td>
+    </tr>   
+</table>
+</center>  
+
 
 ## Reach me out  
 <a href="https://www.linkedin.com/in/biancames"><img src="https://github.com/biancames/biancames/blob/8f7d5bb00ed2c3c8ba774c2d8a0d37bc42dc5136/linkedin.png" width="30"></img></a> 
