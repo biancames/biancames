@@ -1,8 +1,9 @@
-### Hi there 👋
+# Hiii 👋
 My name is Bianca Mesquita 
 
-- 🌱 I'm a Computer Science student and I’m currently learning Javascript
-- I want to be a Front End Dev
+- :books: I'm a Computer Science student currently learning Javascript
+- 👩‍💻 Starting my journey as a Front End Dev
+- :brazil: From São Paulo, Brasil
 
 
 <center>
@@ -15,8 +16,9 @@ My name is Bianca Mesquita
 </center>  
 
 
-## Reach me out  
-<a href="https://www.linkedin.com/in/biancames"><img src="https://github.com/biancames/biancames/blob/8f7d5bb00ed2c3c8ba774c2d8a0d37bc42dc5136/linkedin.png" width="30"></img></a> 
-<a href="https://www.instagram.com/bia_dev"><img src="https://github.com/biancames/biancames/blob/af61ec19a48a37a8b4d7bfb8cab980105cb15515/instagram.png" width="30"></img></a>
-<a href="mailto:bia_dev@hotmail.com"><img src="https://github.com/biancames/biancames/blob/ab6c015f98cf921fc9f1faaa8372d57463ddf268/email.png" width="30"></img></a>
-
+## Reach me out :point_down:
+ <div>
+  <a href = "mailto: biadev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/biancames" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/bia_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
