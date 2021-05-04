@@ -18,7 +18,7 @@ My name is Bianca Mesquita
 
 ## Reach me out :point_down:
  <div>
-  <a style="width:50px;" href="mailto:biadev@outlook.com" target="_blank"><img src="https://github.com/biancames/biancames/blob/8cafbadf8349b77c1662bb2077b3f7e36325dd19/gmail.png" target="_blank"></a>
+  <a href="mailto:biadev@outlook.com" target="_blank"><img  style="width:50px; height:50px;" src="https://github.com/biancames/biancames/blob/8cafbadf8349b77c1662bb2077b3f7e36325dd19/gmail.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/biancames" target="_blank"><img src="https://github.com/biancames/biancames/blob/8cafbadf8349b77c1662bb2077b3f7e36325dd19/linkedin.png" target="_blank"></a>
   <a href="https://instagram.com/bia_dev" target="_blank"><img src="https://github.com/biancames/biancames/blob/8cafbadf8349b77c1662bb2077b3f7e36325dd19/insta.png" target="_blank"></a>
 </div>
