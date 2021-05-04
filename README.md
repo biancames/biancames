@@ -2,7 +2,7 @@
 My name is Bianca Mesquita 
 
 - :books: I'm a Computer Science student currently learning Javascript
-- 👩‍💻 Starting my journey as a Front End Dev
+- 👩‍💻 Starting my journey as a Front End Developer
 - :brazil: From São Paulo, Brasil
 
 
