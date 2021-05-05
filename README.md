@@ -1,9 +1,20 @@
-# Hiii 👋
-My name is Bianca Mesquita 
+# Hiii :purple_heart:	
 
-- :books: I'm a Computer Science student currently learning Javascript
-- 👩‍💻 Starting my journey as a Front End Developer
-- :brazil: From São Paulo, Brasil
+<div>
+  Meu nome é Bianca Mesquita<br />            
+  🎓 Estou cursando Ciência da Computação  
+  👩‍💻 Iniciando minha jornada como Desenvolvedora Front End  
+  📚 Atualmente estudando Javascript  
+  🗨️ Compartilhando estudos e dicas no Instagram  
+  🌎 Sou de São Paulo, Brasil.
+</div> 
+ 
+My name is Bianca Mesquita            
+- :mortar_board: I'm a Computer Science student
+- :woman_technologist: Starting my journey as a Front End Developer
+- :books: Currently learning Javascript
+- :left_speech_bubble: Sharing studies and tips on Instagram
+- :earth_americas: From São Paulo, Brasil
 
 
 <center>
