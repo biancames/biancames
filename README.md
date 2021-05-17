@@ -7,14 +7,10 @@ My name is Bianca Mesquita
 - :left_speech_bubble: Sharing studies and tips on Instagram
 - :earth_americas: From São Paulo, Brasil
 
-<center>
-<table>
-    <tr>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancames&hide=html&layout=compact&theme=radical" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=biancames&theme=radical"/></td>
-    </tr>   
-</table>
-</center>  
+<div>    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancames&hide=html&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancames&theme=radical"/>
+</div>  
 
 
 ## Reach me out :point_down:
