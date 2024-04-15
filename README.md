@@ -1,10 +1,9 @@
 # Hiii :purple_heart:	
 
 My name is Bianca Mesquita                              
-- :mortar_board: I'm a Computer Science student 
+- :mortar_board: I'm a Information Systems student 
 - :woman_technologist: Starting my journey as a Front End Developer
 - :books: Currently learning Javascript
-- :left_speech_bubble: Sharing studies and tips on Instagram
 - :earth_americas: From São Paulo, Brasil
 
 <div>
